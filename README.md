@@ -1,9 +1,9 @@
-Lyrics Fetcher
-
+**Lyrics Fetcher
+**
 A simple Python program that fetches song lyrics using the Lyrics.ovh API. Enter the name of an artist and a song, and the program retrieves the lyrics for you.
 
-How to Use
-
+**How to Use
+**
 Install Python 3.6 or higher.
 
 Install the required library:
@@ -16,8 +16,8 @@ python lyrics_fetcher.py
 
 Follow the prompts to enter the artist's name and song title.
 
-Examples
-
+**Examples
+**
 Fetch Lyrics Successfully
 
 Hello, welcome to 'Lyrics Fetcher'.
@@ -37,8 +37,8 @@ Enter the song name: Unknown Song
 
 Sorry, we couldn't find the lyrics. Please check the artist and song name.
 
-Requirements
-
+**Requirements
+**
 Python 3.6 or higher
 
 requests library
